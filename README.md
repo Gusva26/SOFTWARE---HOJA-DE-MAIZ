@@ -62,3 +62,14 @@ pip install -r requirements.txt
 
 
 streamlit run app.py
+
+
+
+---
+
+## ⚙️ EJECUTAR
+
+Ejecute estas líneas:
+
+docker build -t grape-disease-detection .
+docker run -p 8501:8501 grape-disease-detection
