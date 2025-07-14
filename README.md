@@ -49,6 +49,8 @@ Este software fue desarrollado y probado en el siguiente entorno:
 
 ## ⚙️ Descargar y Ejecutar
 
+```bash
+
 Ejecute estas líneas:
 
 docker build -t grape-disease-detection .
