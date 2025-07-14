@@ -20,12 +20,13 @@ Proyecto de aprendizaje automático para la detección y análisis de enfermedad
 
 Este software fue desarrollado y probado en el siguiente entorno:
 
-- **Dispositivo:** DESKTOP-P7P6BN9  
-- **Procesador:** AMD Ryzen 7 5800H with Radeon Graphics @ 3.20 GHz  
-- **RAM instalada:** 16 GB (15.4 GB utilizable)  
-- **Sistema operativo:** Windows 10 - 64 bits (procesador x64)  
-- **Almacenamiento disponible:** 1.38 TB  
-- **Pantalla:** Sin soporte táctil
+- **Dispositivo:** ASUS TUF GAMING A15  
+- **Procesador:** AMD Ryzen 7 5800H “8 núcleos, 16 hilos, 3.2 GHz base / 4.4 GHz turbo”  
+- **Tarjeta gráfica:** NVIDIA GeForce RTX 3060 (6GB GDDR6, 1280 CUDA cores)  
+- **RAM instalada:** 16 GB DDR4 (3200 MHz) - (15.4 GB utilizable)  
+- **Sistema operativo:** Windows 11 Pro - 64 bits (WSL2 para compatibilidad con Docker)
+- **Almacenamiento disponible:** SSD NVMe 1TB “lectura: 3500 MB/s, escritura: 3000 MB/s”  
+- **Pantalla:** Panel IPS 144hz
 
 > ⚠️ Recomendado: Al menos 8 GB de RAM, GPU con soporte CUDA para entrenamiento acelerado, y entorno Python 3.9+.
 
