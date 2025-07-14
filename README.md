@@ -47,27 +47,7 @@ Este software fue desarrollado y probado en el siguiente entorno:
 
 ---
 
-## ⚙️ Instalación
-
-1. Clona este repositorio:
-
-```bash
-git clone https://github.com/Gusva26/SOFTWARE---HOJA-DE-MAIZ.git
-cd SOFTWARE---HOJA-DE-MAIZ
-
-
-python -m venv venv
-source venv/bin/activate  # En Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-
-streamlit run app.py
-
-
-
----
-
-## ⚙️ EJECUTAR
+## ⚙️ Descargar y Ejecutar
 
 Ejecute estas líneas:
 
